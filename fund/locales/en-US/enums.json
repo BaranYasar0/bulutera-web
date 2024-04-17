@@ -1,0 +1,78 @@
+{
+  "BasisGroup":{
+    "Name":{
+      "Fund Group":"Fund Group",
+      "Interest Group":"Interest Group"
+    }
+  },
+  "KindOfFund":{
+    "Name":{
+     "Debt Securities Umbrella Fund" :"Debt Securities Umbrella Fund",
+      "Variable Fund":"Variable Fund",
+      "Money Market Umbrella Fund":"Money Market Umbrella Fund",
+      "Equity Umbrella Fund":"Equity Umbrella Fund"
+    }
+  },
+  "CorporationType":{
+    "Name":{
+      "Banks":"Banks",
+      "Treasure":"Treasure",
+      "Private Sector":"Private Sector"
+    }
+  },
+    "FundType":{
+      "Name":{
+        "A":"A",
+        "B":"B"
+      }
+    },
+    "RecordStatus":{
+      "Name":{
+        "Active":"Active",
+        "Passive":"Passive"
+      }
+    },
+    "ISOCurrencyCodes": {
+      "Name": {
+        "Turkish lira": "Turkish lira",
+        "Pound sterling": "Pound sterling",
+        "United States dollar": "United States dollar",
+        "Euro": "Euro"
+      }
+    },
+    "OrderStatus":{
+      "Name":{
+        "Completed" :"Completed",
+        "Pending for accounting":"Pending for accounting",
+        "Canceled" :"Canceled",
+        "Pending for value data":"Pending for value data",
+        "Pending for process date":"Pending for process date",
+        "Completed with error":"Completed with error",
+        "Pending for tefas":"Pending for tefas"
+      }
+    },
+    "OrderType":{
+      "Name":{
+        "Fund selling":"Fund selling",
+        "Fund buying":"Fund buying",
+        "Fund buying into bank stock":"Fund buying into bank stock",
+        "Fund selling from bank stock":"Fund selling from bank stock"
+      }
+    },
+    "ChannelType": {
+      "Name": {
+        "EOD":"EOD",
+        "Branch": "Branch",
+        "Head quarter": "Head quarter",
+        "Internet": "Internet",
+        "Mobile": "Mobile",
+        "IVR": "IVR",
+        "Call center": "Call Center",
+        "POS": "POS",
+        "ATM": "ATM",
+        "Internet site": "Internet Sıte",
+        "Tablet": "Tablet",
+        "Direct api for testing": "Direct api for testing (for test)"
+      }
+    }
+}

@@ -1,0 +1,29 @@
+/.git
+/.yarn
+/.vscode
+/component/.storybook/**/*.jsx
+/component/storybook-static/**/*.jsx
+/component/**/*.stories.jsx
+/tmp
+build
+dist
+node_modules
+
+# Modules
+accounting
+agreement
+authorization
+# catalog
+# component
+container
+customer
+dashboard
+deposit
+fx
+identity
+loan
+metadata
+notification
+saga
+telemetry
+tenantsettings

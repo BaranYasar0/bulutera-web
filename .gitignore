@@ -1,0 +1,11 @@
+#Project files
+**/node_modules/
+**/dist/
+**/package-lock.json
+**/yarn-error.log
+**/.DS_Store
+**/storybook-static
+**/.idea/
+
+/lerna copy.json_keep
+/.vs/slnx.sqlite

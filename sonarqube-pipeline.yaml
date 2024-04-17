@@ -1,0 +1,13 @@
+pool: Default
+resources:
+  repositories:
+    - repository: CI-CD
+      name: CI-CD
+      type: git
+      ref: azure-pipelines
+trigger:
+  branches:
+    include:
+      - dev
+extends:
+  template: Fi.Fund.Web/.base-sonar.yml@CI-CD

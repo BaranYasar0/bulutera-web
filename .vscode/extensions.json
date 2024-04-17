@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "kamikillerto.vscode-colorize",
+    "oderwat.indent-rainbow",
+    "richie5um2.vscode-sort-json",
+    "steoates.autoimport",
+    "vscode-icons-team.vscode-icons",
+    "wix.vscode-import-cost"
+  ]
+}

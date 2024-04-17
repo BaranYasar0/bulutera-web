@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "IBAN"
+    ],
+    "files.associations": {
+      "*.jsx":"javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+}

@@ -1,0 +1,88 @@
+{
+  "BasisGroup":{
+    "Name":{
+      "Fund Group":"Fon Grubu",
+      "Interest Group":"Hisse Grubu"
+    }
+  },
+  "KindOfFund":{
+    "Name":{
+     "Debt Securities Umbrella Fund" :"Borçlanma Araçları Şemsiye Fonu",
+      "Variable Fund":"Değişken Fon",
+      "Money Market Umbrella Fund":"Para Piyasası Şemsiye Fonu",
+      "Equity Umbrella Fund":"Hisse Senedi Şemsiye Fonu"
+    }
+  },
+  "CorporationType":{
+    "Name":{
+      "Banks":"Bankalar",
+      "Treasure":"Hazine",
+      "Private Sector":"Özel Sektör"
+    }
+  },
+    "FundType":{
+      "Name":{
+        "A":"A",
+        "B":"B"
+      }
+    },
+    "DatePart":{
+      "Name":{
+        "Week":"Hafta",
+        "Month":"Ay",
+        "Year":"Yıl",
+        "Day":"Gün"
+      }
+    },
+    "RecordStatus":{
+      "Name":{
+        "Active":"Aktif",
+        "Passive":"Pasif"
+      }
+    },
+    "ISOCurrencyCodes": {
+      "Name": {
+        "Turkish lira": "Türk lirası",
+        "Pound sterling": "İngiliz sterlini",
+        "United States dollar": "Amerikan doları",
+        "Euro": "Avro"
+      }
+    },
+    "OrderStatus":{
+      "Name":{
+        "Completed" :"Tamamlandı",
+        "Pending for accounting":"Muhasebe bekleniyor",
+        "Cancelled" :"İptal edildi",
+        "Pending for value data":"Valör tarihi bekleniyor",
+        "Pending for process date":"İşlem tarihi bekleniyor",
+        "Completed with error":"Hata İle Tamamlandı",
+        "Pending for tefas":"Tefas Bekleniyor"
+      }
+    },
+    "OrderType":{
+      "Name":{
+        "Fund selling":"Fon satış",
+        "Fund buying":"Fon alış",
+        "Fund buying into bank stock":"Banka Hisselerine Fon Alımı",
+        "Fund selling from bank stock":"Banka Hisselerine Fon Satışı"
+      }
+    },
+    "ChannelType": {
+      "Code": {
+        "EOD":"EOD (Gün sonu işlemleri)",
+        "Branch": "Şube",
+        "Head quarter": "Genel müdürlük",
+        "Internet": "İnternet",
+        "Mobile": "Mobil",
+        "IVR": "IVR",
+        "Call center": "Çağrı merkezi",
+        "POS": "POS",
+        "ATM": "ATM",
+        "Internet site": "İnternet sitesi",
+        "Tablet": "Tablet",
+        "Direct api for testing": "Doğrudan api erişimi (test amaçlı)"
+      }
+    }
+  }
+
+

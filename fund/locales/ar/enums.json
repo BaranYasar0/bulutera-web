@@ -1,0 +1,43 @@
+{
+  "BasisGroup":{
+    "Name":{
+      "Fund Group":"مجموعة الصندوق",
+      "Interest Group":"مجموعة المصالح"
+    }
+  },
+  "KindOfFund":{
+    "Name":{
+     "Debt Securities Umbrella Fund" :"صندوق مظلة سندات الدين",
+      "Variable Fund":"الصندوق المتغير",
+      "Money Market Umbrella Fund":"صندوق مظلة سوق المال",
+      "Equity Umbrella Fund":"صندوق مظلة الأسهم"
+    }
+  },
+  "CorporationType":{
+    "Name":{
+      "Banks":"البنوك",
+      "Treasure":"كنز",
+      "Private Sector":"القطاع الخاص"
+    }
+  },
+    "FundType":{
+      "Name":{
+        "A":"أ",
+        "B":"ب"
+      }
+    },
+    "RecordStatus":{
+      "Name":{
+        "Active":"نشيط",
+        "Passive":"سلبي"
+      }
+    },
+    "ISOCurrencyCodes": {
+      "Name": {
+        "Turkish lira": "الليرة التركية",
+        "Pound sterling": "الجنيه الاسترليني",
+        "United States dollar": "دولار الولايات المتحدة",
+        "Euro": "اليورو"
+      }
+    }
+}
